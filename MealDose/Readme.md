@@ -1,34 +1,36 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Product Information</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .product-container {
-      max-width: 500px;
-      margin: 0 auto;
-      padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    .product-img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-  <div class="product-container">
-    <h1>Product Name</h1>
-    <img class="product-img" src="product_image.jpg" alt="Product Image">
-    <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae risus et turpis luctus accumsan.</p>
-    <p>Price: $99.99</p>
-    <p>Available Colors: Red, Blue, Green</p>
-    <button>Add to Cart</button>
-  </div>
-</body>
-</html>
+# MealDose - Your Food Recipe Companion
+
+MealDose is a comprehensive food recipe application that offers a wide range of recipes for all food enthusiasts. Whether you're a professional chef or a cooking novice, MealDose is designed to cater to your culinary needs and preferences.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/App_icon_ss.jpg" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450148.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450150.png" width=412 height=650></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450158.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450160.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450169.png" width=412 height=650></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450449.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450444.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450436.png" width=412 height=650></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450201.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450195.png" width=412 height=650></td>
+    <td><img src="https://github.com/Krupal01/products/blob/main/MealDose/SS/Screenshot_1695450182.png" width=412 height=650></td>
+  </tr>
+</table>
+
+## Features
+
+- **Diverse Recipes**: Explore a vast collection of recipes from various cuisines and categories.
+- **Easy Navigation**: User-friendly interface for seamless browsing and searching of recipes.
+- **Random Suggestions**: Get inspired with random recipe suggestions for your next meal.
+- **Personalized Favorites**: Save and organize your favorite recipes for quick access.
+
